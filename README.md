@@ -8,4 +8,4 @@
 
 > 自定义 Promise.html 文件用来测试
 
-点击这里看->[Promise 学习笔记](http://www.woc12138.com/article/43)
+点击这里看->[Promise 学习笔记](http://62.234.149.112:9000/detailed?id=1)
